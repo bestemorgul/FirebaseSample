@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682144135300",
+    "project_id": "signinandsignup-b8e9a",
+    "storage_bucket": "signinandsignup-b8e9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682144135300:android:2ee57cd8c0ddd6b3152ad1",
+        "android_client_info": {
+          "package_name": "com.bestemorgul.firebasesampleone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682144135300-l8tp5fms07tui0508pdppt24ok2u252s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuiy4R9qpEjUhOJ-dqtzTt37o_2U0zeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682144135300-l8tp5fms07tui0508pdppt24ok2u252s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
